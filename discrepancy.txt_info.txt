@@ -1,0 +1,36 @@
+
+================================================================================
+
+Run started at 03\02\2016 09:33 
+Run type is SVR 
+Output files will be given the prefix: discrepancy.txt 
+Sequence file being used: myseqs.txt 
+Model file being used (SVR or PWM file): E2F1_SVR.model
+
+Genome file (if needed) hg19.fa
+Finding the best score of both the forward and reverse sequences
+Scores are being written to:  discrepancy.txt_E2F1_SVR_SVR-scores.txt
+
+================================================================================
+
+Run started at 03\02\2016 09:35 
+Run type is SVR 
+Output files will be given the prefix: discrepancy.txt 
+Sequence file being used: myseqs.txt 
+Model file being used (SVR or PWM file): E2F1_SVR.model
+
+Genome file (if needed) hg19.fa
+Finding the best score of both the forward and reverse sequences
+Scores are being written to:  discrepancy.txt_E2F1_SVR_SVR-scores.txt
+
+================================================================================
+
+Run started at 03\02\2016 09:39 
+Run type is SVR 
+Output files will be given the prefix: discrepancy.txt 
+Sequence file being used: myseqs.txt 
+Model file being used (SVR or PWM file): E2F1_SVR.model
+
+Genome file (if needed) hg19.fa
+Finding the best score of both the forward and reverse sequences
+Scores are being written to:  discrepancy.txt_E2F1_SVR_SVR-scores.txt

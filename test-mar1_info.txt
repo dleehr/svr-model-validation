@@ -1,0 +1,18 @@
+
+================================================================================
+
+Run started at 03\01\2016 16:35 
+Run type is SVR 
+Output files will be given the prefix: test-mar1 
+Sequence file being used: test-sequence-mar1 
+Model file being used (SVR or PWM file): E2F1_SVR.model
+
+Genome file (if needed) hg19.fa
+
+================================================================================
+
+Run started at 03\01\2016 16:35 
+Run type is SVR 
+Output files will be given the prefix: test-mar1 
+Sequence file being used: test-sequence-mar1 
+Model file being used (SVR or PWM file): E2F1_SVR.model

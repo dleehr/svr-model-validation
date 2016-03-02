@@ -1,0 +1,12 @@
+
+================================================================================
+
+Run started at 03\02\2016 09:47 
+Run type is SVR 
+Output files will be given the prefix: fwd-only 
+Sequence file being used: myseqs.txt 
+Model file being used (SVR or PWM file): E2F1_SVR.model
+
+Genome file (if needed) hg19.fa
+Finding the scores for only sequences in the forward direction
+Scores are being written to:  fwd-only_E2F1_SVR_FWD_SVR-scores.txt

@@ -1,0 +1,12 @@
+
+================================================================================
+
+Run started at 03\02\2016 09:54 
+Run type is SVR 
+Output files will be given the prefix: dcl9-outlier-output-fwdonly.txt 
+Sequence file being used: dcl9-outlier.txt 
+Model file being used (SVR or PWM file): E2F1_SVR.model
+
+Genome file (if needed) hg19.fa
+Finding the scores for only sequences in the forward direction
+Scores are being written to:  dcl9-outlier-output-fwdonly.txt_E2F1_SVR_FWD_SVR-scores.txt
